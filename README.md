@@ -22,8 +22,6 @@ $ ls
 
 $ git pull
 
-
-
 $ python force.py
 
 ```
