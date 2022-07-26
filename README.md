@@ -26,10 +26,6 @@ $ python force.py
 
 ```
 
-#### Menu & Features Crack
-
-![IMG_20220724_020355](https://user-images.githubusercontent.com/92802033/180619465-cdde5bac-56b6-4e5e-9608-3a653385afb9.jpg)
-
 #### Penggunaan
 
 ``` bash
